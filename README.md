@@ -9,8 +9,13 @@ QR-Generator is a web-based application that allows users to create QR (Quick Re
 # How to Use
 
 Clone or download the repository to your local machine.
+
 Open index.html in your web browser.
+
 Enter the desired text or URL in the input field.
+
 Click the "Generate" button to create the QR code.
+
 The generated QR code will be displayed on the screen.
+
 Right-click on the QR code and select "Save Image As" to download it.
